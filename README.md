@@ -1,6 +1,6 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
 ## Name: S Madhumitha
-## Reg no:212224050217
+## Reg no:212225040217
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
